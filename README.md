@@ -1,3 +1,3 @@
 # publish-subscribe
-Classes located at main
+Classes located at main.
 PyCharm used as IDE
